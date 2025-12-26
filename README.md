@@ -51,19 +51,15 @@ The dataset includes the following features:
 - Standardized column names and data types
 - Structured the dataset for efficient modeling and visualization
 
----
-
-## 📈 Analysis Performed
+--## 📈 Analysis Performed
 - **Trend Analysis**
-  - Monthly trend lines using Excel Pivot Charts
+  **Monthly trend lines using Excel Pivot Charts
 - **Exploratory Data Analysis (EDA)**
   - Understanding relationships between production, sales, and demand
 - **Regression Analysis**
   - Evaluated the influence of **GDP on cement production and sales**
 - **Visualization**
   - Interactive Power BI dashboards for clear insights
-
----
 
 ## 📊 Key Insights
 - Cement sales and production show strong sensitivity to **economic indicators**, especially GDP
