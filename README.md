@@ -86,7 +86,7 @@ The dataset includes the following features:
 
 ## 👤 About the Author
 **Adeyanju Abdulfatai Adedayo**  
-Excel Specialist | Data Analyst  
+Excel Specialist  
 Graduate of **PHOCUS ICT/Media Inc.**
 
 I am passionate about transforming data into actionable insights using Excel, Power BI, and analytical techniques.
